@@ -12,10 +12,10 @@ O objetivo deste projeto é criar um site simples que descreva o desenho animado
 
 | Etapa                        | Descrição                                                  | Prazo        |
 |------------------------------|------------------------------------------------------------|--------------|
-| **Planejamento**              | Definir o escopo do projeto e as funcionalidades desejadas. | 03/12/2024   |
-| **Desenvolvimento da estrutura HTML** | Criar o layout básico do site com cabeçalho, conteúdo e rodapé. | 04/12/2024   |
-| **Estilização com CSS**       | Aplicar o design com cores e fontes inspiradas em *Rick and Morty*. | 05/12/2024   |
-| **Publicação e ajustes finais** | Subir o site para o GitHub e realizar os ajustes finais. | 06/12/2024   |
+| **Planejamento**              | Definir o escopo do projeto e as funcionalidades desejadas. | 01/12/2024   |
+| **Desenvolvimento da estrutura HTML** | Criar o layout básico do site com cabeçalho, conteúdo e rodapé. | 01/12/2024   |
+| **Estilização com CSS**       | Aplicar o design com cores e fontes inspiradas em *Rick and Morty*. | 02/12/2024   |
+| **Publicação e ajustes finais** | Subir o site para o GitHub e realizar os ajustes finais. | 03/12/2024   |
 
 ## Processo de Desenvolvimento
 
