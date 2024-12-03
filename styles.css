@@ -1,0 +1,95 @@
+/* Estilo Global */
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #101820; /* Fundo escuro e discreto */
+    color: #d4ff4d; /* Verde neon para destaque */
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #00ff00; /* Verde vibrante */
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid #d4ff4d; /* Linha simples de separação */
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+    color: #101820; /* Contraste forte com o fundo */
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #222; /* Tom escuro suave */
+}
+
+/* Conteúdo Principal */
+main {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #1b1f23; /* Fundo levemente contrastante */
+    border-radius: 10px;
+    border: 1px solid #00ff00; /* Destaque sutil */
+    color: #d1d8e0;
+}
+
+#content-container h2 {
+    font-size: 1.8rem;
+    color: #78e08f; /* Verde pastel suave */
+    margin-bottom: 10px;
+}
+
+#content-container p {
+    font-size: 1rem;
+    color: #d1d8e0; /* Texto com bom contraste */
+    margin-bottom: 20px;
+}
+
+/* Listas */
+ul {
+    padding-left: 20px;
+    list-style-type: square;
+    color: #00ff00;
+}
+
+ul li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+/* Imagens */
+.images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.images img {
+    border-radius: 8px;
+    border: 2px solid #00ff00; /* Destaque discreto */
+    max-height: 250px;
+    width: auto;
+    transition: transform 0.2s ease;
+}
+
+.images img:hover {
+    transform: scale(1.05); /* Ampliação sutil */
+}
+
+/* Rodapé */
+footer {
+    background-color: #101820; /* Mesmo tom do fundo principal */
+    text-align: center;
+    padding: 15px;
+    color: #d4ff4d; /* Verde neon para consistência */
+    font-size: 0.9rem;
+    border-top: 1px solid #00ff00; /* Linha simples no topo */
+}
